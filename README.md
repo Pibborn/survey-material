@@ -1,3 +1,5 @@
+0. This project requires python3.11 or newer.
+
 1. Installation:
 
 ```bash
